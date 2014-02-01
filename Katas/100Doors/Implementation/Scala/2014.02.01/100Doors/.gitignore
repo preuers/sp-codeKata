@@ -1,0 +1,14 @@
+# Gradle
+## Default Gradle Ignore
+.gradle
+build/
+## Also ignore Gradle Wrapper
+gradlew*
+gradle/
+
+# Eclipse
+.cache
+.classpath
+.project
+.settings/
+bin/
